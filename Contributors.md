@@ -28,6 +28,7 @@
 - [Jonah-Ssegawa]
 - [Perin-Mangukiya](https://github.com/Perin-Mangukiya)
 - [Feohr](https://github.com/Feohr)
+~ [Kelly Anderson](https://github.com/anderske-msu)
 -[abhinav](https://github.com/Abhinav260804)
 -[Abhishek](https://github.com/hyperion912)
 - [Alan Lipschutz](https://github.com/alanlipschutz)
